@@ -1,6 +1,8 @@
 <h1 align="center">BLOG TECNOLOGIA</h1>
 <h3 align="center">Carrusel vertical de enlaces a blogs creados en plataformas gratuitas.</h3>
 
+<a href="https://blog-five-omega-79.vercel.app" target="blank">Despliegue en Vercel</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/( crystina_g )" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="( crystina_g )" height="30" width="40" /></a>
