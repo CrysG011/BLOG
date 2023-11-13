@@ -45,7 +45,7 @@ body {
 .slideshow-logo {
 	display: flex;
 	align-self: flex-end;
-	margin-right: 3em;
+	margin-right: 1em;
 	max-width: 3vw;
 	height: auto;
 }
