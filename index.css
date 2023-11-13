@@ -28,14 +28,26 @@ body {
 	overflow: hidden;
 }
 
+.slideshow-home {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}
+
 .slideshow-title {
 	text-align: center;
 	font-weight: bold;
 	font-size: 4.2em;
 	display: flex;
-	align-self: center;
 	padding: .6em;
 	text-shadow: .3rem .3rem .3rem rgba(148, 232, 239, 0.9);
+}
+.slideshow-logo {
+	display: flex;
+	align-self: flex-end;
+	margin-right: 3em;
+	max-width: 3vw;
+	height: auto;
 }
 
 .entire-content {

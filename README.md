@@ -1,6 +1,6 @@
 <h1 align="center">BLOG TECNOLOGIA</h1>
 <h3 align="center">Carrusel vertical de enlaces a blogs creados en plataformas gratuitas.</h3>
-
+![Portada del sitio](./assets/BlogsPortada.jpg)
 <a href="https://blog-five-omega-79.vercel.app" target="blank">Despliegue en Vercel</a>
 
 <h3 align="left">Connect with me:</h3>
