@@ -21,10 +21,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.wappalyzer.com/" target="_blank" rel="noreferrer"> 
-    <img src="URL_DEL_ICONO_DE_WAPPALIZER" alt="wappalizer" width="40" height="40"/> 
-  </a>
-  <a href="https://www.whatweb.net/" target="_blank" rel="noreferrer"> 
-    <img src="URL_DEL_ICONO_DE_WHATWEB" alt="whatweb" width="40" height="40"/> 
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wappalyzer_logo_icon_168241.png" alt="wappalizer" width="40" height="40"/> 
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
