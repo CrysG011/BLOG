@@ -3,7 +3,7 @@
 
 ![Portada del sitio](./assets/BlogsPortada.png)
 
-<a href="https://blog-five-omega-79.vercel.app" target="blank">Despliegue en Vercel</a>
+<a href="https://blog-eah.pages.dev/" target="blank">Despliegue en Vercel</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
